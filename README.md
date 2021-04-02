@@ -22,8 +22,8 @@
 
 |날짜|알고리즘|하|중|상|
 |---|---|---|---|---|
-|day1|자료구조 : 스택|[스택](https://www.acmicpc.net/problem/10828)|[스택 수열](https://www.acmicpc.net/problem/1874)|[후위 표기식](https://www.acmicpc.net/problem/1918)|
-|day1|자료구조 : 큐|[큐](https://www.acmicpc.net/problem/10828)|[프린터 큐](https://www.acmicpc.net/problem/1966)|[뱀](https://www.acmicpc.net/problem/3190)|
+|Day1|구현|[괄호의 값](https://www.acmicpc.net/problem/2504)|[사탕 게임](https://www.acmicpc.net/problem/3085)|[결혼식](https://www.acmicpc.net/problem/5567)|
+|----|자료구조 : 큐|[큐](https://www.acmicpc.net/problem/10828)|[프린터 큐](https://www.acmicpc.net/problem/1966)|[뱀](https://www.acmicpc.net/problem/3190)|
 
 ## 깃허브 사용법
 
