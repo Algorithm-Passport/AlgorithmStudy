@@ -25,6 +25,12 @@
 |21.4.9 까지|구현|[괄호의 값](https://www.acmicpc.net/problem/2504)|[사탕 게임](https://www.acmicpc.net/problem/3085)|[결혼식](https://www.acmicpc.net/problem/5567)|
 |----|-----|---|------|-------|
 
+## 조원
+|1조|김민석, 유병각|
+|2조|유병각, 최현민|
+|3조|강수호, 윤재선|
+|4조|김남우, 김민정|
+
 ## 깃허브 사용법
 
 1. 터미널에 git clone https://github.com/Algorithm-Passport/ProblemSolve.git <원하는폴더명> 을 입력한다.
