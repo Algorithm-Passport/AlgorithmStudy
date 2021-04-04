@@ -25,7 +25,7 @@
 |21.4.9 까지|구현|[괄호의 값](https://www.acmicpc.net/problem/2504)|[사탕 게임](https://www.acmicpc.net/problem/3085)|[결혼식](https://www.acmicpc.net/problem/5567)|
 |----|-----|---|------|-------|
 
-## 조원
+## 4월 9일 파트너
 |1조|김민석, 유병각|
 
 |2조|유병각, 최현민|
