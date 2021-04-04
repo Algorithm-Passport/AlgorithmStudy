@@ -23,7 +23,7 @@
 |날짜|알고리즘|하|중|상|
 |---|---|---|---|---|
 |21.4.9 까지|구현|[괄호의 값](https://www.acmicpc.net/problem/2504)|[사탕 게임](https://www.acmicpc.net/problem/3085)|[결혼식](https://www.acmicpc.net/problem/5567)|
-|----|-----|[큐](https://www.acmicpc.net/problem/10845)|[프린터 큐](https://www.acmicpc.net/problem/1966)|[뱀](https://www.acmicpc.net/problem/3190)|
+|----|-----|---|------|-------|
 
 ## 깃허브 사용법
 
