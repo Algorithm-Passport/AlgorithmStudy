@@ -25,6 +25,7 @@
 |---|---|---|---|---|
 |21.4.9 까지|구현|[괄호의 값](https://www.acmicpc.net/problem/2504)|[사탕 게임](https://www.acmicpc.net/problem/3085)|[결혼식](https://www.acmicpc.net/problem/5567)|
 |21.4.13 까지|그래프 탐색|[바이러스](https://www.acmicpc.net/problem/2606)|[나이트의 이동](https://www.acmicpc.net/problem/7562)|[안전 영역](https://www.acmicpc.net/problem/2468)|
+|21.4.16 까지|다이나믹 프로그래밍|[돌 게임](https://www.acmicpc.net/problem/9655)|[가장 큰 증가 부분 수열](https://www.acmicpc.net/problem/11055)|[카드 구매하기](https://www.acmicpc.net/problem/11052)|
 |----|-----|---|------|-------|
 
 ## 4월 13일 파트너
