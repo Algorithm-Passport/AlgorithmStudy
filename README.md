@@ -29,6 +29,7 @@
 |21.4.19 까지|문자열 처리|[팰린드롬 만들기](https://www.acmicpc.net/problem/1213)|[잃어버린 괄호](https://www.acmicpc.net/problem/1541)|[IPv6](https://www.acmicpc.net/problem/3107)|
 |21.4.23 까지|백트래킹|[모든 순열](https://www.acmicpc.net/problem/10974)|[부등호](https://www.acmicpc.net/problem/2529)|[연산자 끼워넣기](https://www.acmicpc.net/problem/14888)|
 |21.4.26 까지|구현|[숫자 정사각형](https://www.acmicpc.net/problem/1051)|[치킨 배달](https://www.acmicpc.net/problem/15686)|[2048 (Easy)](https://www.acmicpc.net/problem/12100)|
+|21.4.30 까지|다이나믹 프로그래밍|[01타일](https://www.acmicpc.net/problem/1924)|[오르막 수](https://www.acmicpc.net/problem/11057)|[파이프 옮기기 1](https://www.acmicpc.net/problem/17070)|
 |----|-----|---|------|-------|
 
 ## 4월 26일 파트너
