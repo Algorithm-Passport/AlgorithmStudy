@@ -30,6 +30,7 @@
 |21.4.23 까지|백트래킹|[모든 순열](https://www.acmicpc.net/problem/10974)|[부등호](https://www.acmicpc.net/problem/2529)|[연산자 끼워넣기](https://www.acmicpc.net/problem/14888)|
 |21.4.26 까지|구현|[숫자 정사각형](https://www.acmicpc.net/problem/1051)|[치킨 배달](https://www.acmicpc.net/problem/15686)|[2048 (Easy)](https://www.acmicpc.net/problem/12100)|
 |21.4.30 까지|다이나믹 프로그래밍|[01타일](https://www.acmicpc.net/problem/1904)|[오르막 수](https://www.acmicpc.net/problem/11057)|[파이프 옮기기 1](https://www.acmicpc.net/problem/17070)|
+|21.5.3 까지|문자열 처리|[듣보잡](https://www.acmicpc.net/problem/1764)|[IOIOI](https://www.acmicpc.net/problem/5525)|[가르침](https://www.acmicpc.net/problem/1062)|
 |----|-----|---|------|-------|
 
 ## 4월 30일 파트너
