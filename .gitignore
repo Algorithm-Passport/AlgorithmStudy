@@ -1,4 +1,4 @@
 #except excute file
-*/*/*.exe
-*/*/*.a
+*.exe
+*.a
 .DS_Store
