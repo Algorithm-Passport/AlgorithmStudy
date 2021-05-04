@@ -31,12 +31,13 @@
 |21.4.26 까지|구현|[숫자 정사각형](https://www.acmicpc.net/problem/1051)|[치킨 배달](https://www.acmicpc.net/problem/15686)|[2048 (Easy)](https://www.acmicpc.net/problem/12100)|
 |21.4.30 까지|다이나믹 프로그래밍|[01타일](https://www.acmicpc.net/problem/1904)|[오르막 수](https://www.acmicpc.net/problem/11057)|[파이프 옮기기 1](https://www.acmicpc.net/problem/17070)|
 |21.5.3 까지|문자열 처리|[듣보잡](https://www.acmicpc.net/problem/1764)|[IOIOI](https://www.acmicpc.net/problem/5525)|[가르침](https://www.acmicpc.net/problem/1062)|
+|21.5.7 까지|그래프 탐색|[바이러스](https://www.acmicpc.net/problem/2606)|[친구](https://www.acmicpc.net/problem/1058)|[트리의 지름](https://www.acmicpc.net/problem/1967)|
 |----|-----|---|------|-------|
 
-## 5월 3일 파트너
-|1조|강수호, 김지나|
-|2조|유병각, 염재선|
-|3조|김남우, 김민석|
+## 5월 7일 파트너
+|1조|강수호, 염재선|
+|2조|유병각, 김민석|
+|3조|김남우, 김지나|
 
 ## 깃허브 사용법
 
