@@ -41,7 +41,7 @@
 
 ## 깃허브 사용법
 
-1. 터미널에 git clone https://github.com/Algorithm-Passport/ProblemSolve.git <원하는폴더명> 을 입력한다.
+1. 터미널에 git clone https://github.com/Algorithm-Passport/AlgorithmStudy.git <원하는폴더명> 을 입력한다.
 2. cd <원하는폴더명> 으로 클론한 폴더에 들어간다.
 3. master 브렌치에서 git checkout -b <브랜치명> 을 입력한다. (**항상 브렌치 만들기전에 pull(git pull -a)하고 만들것!**)
 5. cd src 로 src 폴더에 들어간다.
