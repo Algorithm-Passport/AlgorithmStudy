@@ -32,16 +32,17 @@
 |21.4.30 까지|다이나믹 프로그래밍|[01타일](https://www.acmicpc.net/problem/1904)|[오르막 수](https://www.acmicpc.net/problem/11057)|[파이프 옮기기 1](https://www.acmicpc.net/problem/17070)|
 |21.5.3 까지|문자열 처리|[듣보잡](https://www.acmicpc.net/problem/1764)|[IOIOI](https://www.acmicpc.net/problem/5525)|[가르침](https://www.acmicpc.net/problem/1062)|
 |21.5.7 까지|그래프 탐색|[효율적인 해킹](https://www.acmicpc.net/problem/1325)|[친구](https://www.acmicpc.net/problem/1058)|[트리의 지름](https://www.acmicpc.net/problem/1967)|
+|21.5.10 까지|트리 구조|[상근이의 여행](https://www.acmicpc.net/problem/9372)|[트리 순회](https://www.acmicpc.net/problem/1991)|[사회망 서비스(SNS)](https://www.acmicpc.net/problem/2533)|
 |----|-----|---|------|-------|
 
-## 5월 7일 파트너
-|1조|강수호, 염재선|
-|2조|유병각, 김민석|
-|3조|김남우, 김지나|
+## 5월 10일 파트너
+|1조|강수호, 김민석|
+|2조|유병각, 김지나|
+|3조|김남우, 염재선|
 
 ## 깃허브 사용법
 
-1. 터미널에 git clone https://github.com/Algorithm-Passport/ProblemSolve.git <원하는폴더명> 을 입력한다.
+1. 터미널에 git clone https://github.com/Algorithm-Passport/AlgorithmStudy.git <원하는폴더명> 을 입력한다.
 2. cd <원하는폴더명> 으로 클론한 폴더에 들어간다.
 3. master 브렌치에서 git checkout -b <브랜치명> 을 입력한다. (**항상 브렌치 만들기전에 pull(git pull -a)하고 만들것!**)
 5. cd src 로 src 폴더에 들어간다.
