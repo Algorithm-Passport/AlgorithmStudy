@@ -33,7 +33,7 @@
 |21.5.3 까지|문자열 처리|[듣보잡](https://www.acmicpc.net/problem/1764)|[IOIOI](https://www.acmicpc.net/problem/5525)|[가르침](https://www.acmicpc.net/problem/1062)|
 |21.5.7 까지|그래프 탐색|[효율적인 해킹](https://www.acmicpc.net/problem/1325)|[친구](https://www.acmicpc.net/problem/1058)|[트리의 지름](https://www.acmicpc.net/problem/1967)|
 |21.5.10 까지|트리 구조|[상근이의 여행](https://www.acmicpc.net/problem/9372)|[트리 순회](https://www.acmicpc.net/problem/1991)|[사회망 서비스(SNS)](https://www.acmicpc.net/problem/2533)|
-|21.5.14 까지|세그먼트 트리 재귀|[히스토그램] (https://www.acmicpc.net/problem/1725)|[뒤집기](https://www.acmicpc.net/problem/10472)||
+|21.5.14 까지|세그먼트 트리 재귀|[히스토그램](https://www.acmicpc.net/problem/1725)|[뒤집기](https://www.acmicpc.net/problem/10472)||
 |----|-----|---|------|-------|
 
 ## 5월 10일 파트너
