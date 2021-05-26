@@ -37,8 +37,9 @@
 |21.5.17 까지|백 트래킹|[로또](https://www.acmicpc.net/problem/6603)|[N-Queen](https://www.acmicpc.net/problem/9663)|
 |21.5.26 까지|시뮬레이션|[스위치 켜고 끄기](https://www.acmicpc.net/problem/1244)|[프린터 큐](https://www.acmicpc.net/problem/1966)|[빗물](https://www.acmicpc.net/problem/14719)|[원판 돌리기](https://www.acmicpc.net/problem/17822)|
 
-## 5월 17일 파트너
-|1조|유병각, 염재선|
+## 5월 26일 파트너
+|1조|최현민, 김남우|
+|2조|김민석, 강수호, 염재선|
 
 ## 깃허브 사용법
 
