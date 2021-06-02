@@ -39,8 +39,8 @@
 |21.06.02 까지|다이나믹 프로그래밍|[1로 만들기](https://www.acmicpc.net/problem/1463)|[기타리스트](https://www.acmicpc.net/problem/1495)|[괄호](https://www.acmicpc.net/problem/10422)|[행렬 곱셈 순서](https://www.acmicpc.net/problem/11049)|
 
 ## 5월 26일 파트너
-|1조|최현민, 김남우|
-|2조|김민석, 강수호, 염재선|
+|1조|김남우, 유병각|
+|2조|강수호, 염재선|
 
 ## 깃허브 사용법
 
