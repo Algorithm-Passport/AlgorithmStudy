@@ -37,6 +37,7 @@
 |21.05.17 까지|백 트래킹|[로또](https://www.acmicpc.net/problem/6603)|[N-Queen](https://www.acmicpc.net/problem/9663)|
 |21.05.26 까지|시뮬레이션|[스위치 켜고 끄기](https://www.acmicpc.net/problem/1244)|[프린터 큐](https://www.acmicpc.net/problem/1966)|[빗물](https://www.acmicpc.net/problem/14719)|[원판 돌리기](https://www.acmicpc.net/problem/17822)|
 |21.06.02 까지|다이나믹 프로그래밍|[1로 만들기](https://www.acmicpc.net/problem/1463)|[기타리스트](https://www.acmicpc.net/problem/1495)|[괄호](https://www.acmicpc.net/problem/10422)|[행렬 곱셈 순서](https://www.acmicpc.net/problem/11049)|
+|21.06.09 까지|이분 탐색|[나무 자르기](https://www.acmicpc.net/problem/2805)|[공유기 설치](https://www.acmicpc.net/problem/2110)|[개똥벌레](https://www.acmicpc.net/problem/3020)|[중량제한](https://www.acmicpc.net/problem/1939)|
 
 ## 5월 26일 파트너
 |1조|김남우, 유병각|
