@@ -13,7 +13,7 @@
 - 1주일에 2회 (월,금) 진행
 - 회당 한 개의 알고리즘에 대하여 난이도 상,중,하 에 해당하는 문제를 각자 풀이한다.
 - 풀이할 때 상대방이 이해할 수 있을 정도의 주석을 달아야 한다.
-- 사용하는 언어에 제약은 없다. 권장하는 언어는 C++, Python3, JavaScript 이다.
+- 사용하는 언어에 제약은 없다. 권장하는 언어는 C++, Python3, Java 이다.
 - 스터디 날짜에 매칭된 상대방과 카톡 또는 메일로 시간을 잡고, 해당 시간에 코드 설명 및 질문을 진행한다. (권장: 본인이 짠 코드를 설명하기 및 질문 답변 (15분 ~ 20분), 상대방이 짠 코드 설명 듣기 및 질문 (15분 ~ 20분)
 - Zoom 또는 원격 회의 프로그램(예시)의 화면 공유를 통해 1인당 n명한테 설명을 해야 한다.(대부분 1:1 로 진행되지만, 불가피하게 한명이 참석하지 못하는 경우 최대 2명과 설명을 진행 할 수도 있음)
 - 본인의 파트너가 Pull Request를 올린 후 **본인이 파트너의 Pull Request에 코드 평가를 적고 Merge 한다.**
@@ -38,10 +38,7 @@
 |21.05.26 까지|시뮬레이션|[스위치 켜고 끄기](https://www.acmicpc.net/problem/1244)|[프린터 큐](https://www.acmicpc.net/problem/1966)|[빗물](https://www.acmicpc.net/problem/14719)|[원판 돌리기](https://www.acmicpc.net/problem/17822)|
 |21.06.02 까지|다이나믹 프로그래밍|[1로 만들기](https://www.acmicpc.net/problem/1463)|[기타리스트](https://www.acmicpc.net/problem/1495)|[괄호](https://www.acmicpc.net/problem/10422)|[행렬 곱셈 순서](https://www.acmicpc.net/problem/11049)|
 |21.06.09 까지|이분 탐색|[나무 자르기](https://www.acmicpc.net/problem/2805)|[공유기 설치](https://www.acmicpc.net/problem/2110)|[개똥벌레](https://www.acmicpc.net/problem/3020)|[중량제한](https://www.acmicpc.net/problem/1939)|
-
-## 5월 26일 파트너
-|1조|김남우, 유병각|
-|2조|강수호, 염재선|
+|21.06.16 까지|그래프 탐색|[숫자판 점프](https://www.acmicpc.net/problem/2210)|[섬의 개수](https://www.acmicpc.net/problem/4963)|[말이 되고픈 원숭이](https://www.acmicpc.net/problem/1600)|[퍼즐](https://www.acmicpc.net/problem/1525)|
 
 ## 깃허브 사용법
 
@@ -67,6 +64,3 @@
 - 그리디 알고리즘
 - 문자열
 - 비트마스킹
-
-## 참여자
-강수호 김남우 김민석 염재선 유병각
