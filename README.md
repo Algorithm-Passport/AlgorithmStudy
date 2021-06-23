@@ -41,6 +41,10 @@
 |21.06.16 까지|그래프 탐색|[숫자판 점프](https://www.acmicpc.net/problem/2210)|[섬의 개수](https://www.acmicpc.net/problem/4963)|[말이 되고픈 원숭이](https://www.acmicpc.net/problem/1600)|[퍼즐](https://www.acmicpc.net/problem/1525)|
 |21.06.23 까지|자료 구조|[에디터](https://www.acmicpc.net/problem/1406)|[최소 힙](https://www.acmicpc.net/problem/1927)|[탑](https://www.acmicpc.net/problem/2493)|[문제집](https://www.acmicpc.net/problem/1766)|
 
+## 6.23 파트너
+1조 : 염재선, 김남우
+2조 : 김현교, 강수호
+
 ## 깃허브 사용법
 
 1. 터미널에 git clone https://github.com/Algorithm-Passport/AlgorithmStudy.git <원하는폴더명> 을 입력한다.
