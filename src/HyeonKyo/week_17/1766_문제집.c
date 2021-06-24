@@ -34,7 +34,7 @@ node	*create_node(int num)
 {
 	node *lst;
 	lst = (node *)malloc(sizeof(node));
-	memset(lst, 0, sizeof(lst));
+	memset(lst, 0, sizeof(node));
 	lst->data = num;
 	return (lst);
 }
