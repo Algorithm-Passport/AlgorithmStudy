@@ -40,10 +40,8 @@
 |21.06.09 까지|이분 탐색|[나무 자르기](https://www.acmicpc.net/problem/2805)|[공유기 설치](https://www.acmicpc.net/problem/2110)|[개똥벌레](https://www.acmicpc.net/problem/3020)|[중량제한](https://www.acmicpc.net/problem/1939)|
 |21.06.16 까지|그래프 탐색|[숫자판 점프](https://www.acmicpc.net/problem/2210)|[섬의 개수](https://www.acmicpc.net/problem/4963)|[말이 되고픈 원숭이](https://www.acmicpc.net/problem/1600)|[퍼즐](https://www.acmicpc.net/problem/1525)|
 |21.06.23 까지|자료 구조|[에디터](https://www.acmicpc.net/problem/1406)|[최소 힙](https://www.acmicpc.net/problem/1927)|[탑](https://www.acmicpc.net/problem/2493)|[문제집](https://www.acmicpc.net/problem/1766)|
+|21.07.07 까지|문자열|[회사에 있는 사람](https://www.acmicpc.net/problem/7785)|[키로거](https://www.acmicpc.net/problem/5397)|[AC](https://www.acmicpc.net/problem/5430)|[문자열 폭팔](https://www.acmicpc.net/problem/9935)|
 
-## 6.23 파트너
-1조 : 염재선, 김남우
-2조 : 김현교, 강수호
 
 ## 깃허브 사용법
 
