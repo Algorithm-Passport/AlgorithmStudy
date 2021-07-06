@@ -2,6 +2,14 @@
 #include <string.h>
 #include <stdlib.h>
 
+typedef struct deque
+{
+	int *buf;
+	int f_idx;
+	int l_idx;
+	int check;
+}t_deque;
+
 int	ft_isdigit(int c)
 {
 	if (c >= '0' && c <= '9')
@@ -28,44 +36,66 @@ void	ft_split(int *buf, char *arr)
 	}
 }
 
-void	fun_R(int len, int *buf)
+void	insert_queue(t_deque *que, int n, char *arr)
 {
-	int i, n = 0;
-	int *tmp;
-	
-	tmp = (int *)malloc(len * sizeof(int));
-	for (i = 0; i < len; i++)
-		tmp[i] = buf[i];
-	n = len;
-	for (i = 0; i < len; i++)
-		buf[i] = tmp[--n];
-	free(tmp);
-	tmp = 0;
+	que->f_idx = 0;
+	que->l_idx = n - 1;
+	if (n == 0)
+	{
+		que->l_idx = 0;
+		que->buf = 0;
+		return ;
+	}
+	que->check = 1;
+	que->buf = (int *)malloc(n * sizeof(int));
+	ft_split(que->buf, arr);
 }
 
-int	fun_D(int *len, int *buf)
+void	fun_R(t_deque *que)
 {
-	int i = 0;
+	que->check *= -1;
+}
 
-	if (*len == 0)
+int	fun_D(t_deque *que)
+{
+	if (que->f_idx >= que->l_idx)
 		return (0);
-	for (i = 0; i < *len - 1; i++)
-		buf[i] = buf[i + 1];
-	(*len)--;
+	if (que->check > 0)
+		que->f_idx++;
+	else
+		que->l_idx--;
 	return (1);
 }
 
-void	print_buf(int len, int *buf)
+void	print_buf(int n, t_deque que)
 {
 	int i = 0;
 
-	printf("[");
-	for (i = 0; i < len; i++)
+	if (n == 0)
 	{
-		if (i != len - 1)
-			printf("%d,", buf[i]);
-		else
-			printf("%d]\n", buf[i]);
+		printf("[]\n");
+		return ;
+	}
+	printf("[");
+	if (que.check > 0)
+	{
+		for (i = que.f_idx; i <= que.l_idx; i++)
+		{
+			if (i != que.l_idx)
+				printf("%d,", que.buf[i]);
+			else
+				printf("%d]\n", que.buf[i]);
+		}
+	}
+	else
+	{
+		for (i = que.l_idx; i >= que.f_idx; i--)
+		{
+			if (i != que.f_idx)
+				printf("%d,", que.buf[i]);
+			else
+				printf("%d]\n", que.buf[i]);
+		}
 	}
 }
 
@@ -74,7 +104,7 @@ int main()
 	int T, n, i, ret = 0;
 	char	P[100001];
 	char	arr[200010];
-	int		*buf;
+	t_deque	que;
 
 	scanf("%d", &T);
 	while (T--)
@@ -82,16 +112,16 @@ int main()
 		scanf("%s", P);
 		scanf("%d", &n);
 		scanf("%s", arr);
-		buf = (int *)malloc(n * sizeof(int));
-		ft_split(buf, arr);
+		insert_queue(&que, n, arr);
 		i = 0;
+		ret = 1;
 		while (P[i])
 		{
 			if (P[i] == 'R')
-				fun_R(n, buf);
+				fun_R(&que);
 			else
 			{
-				if (!(ret = fun_D(&n, buf)))
+				if (!(ret = fun_D(&que)))
 				{
 					printf("error\n");
 					break ;
@@ -100,9 +130,10 @@ int main()
 			i++;
 		}
 		if (ret)
-			print_buf(n, buf);
-		free(buf);
-		buf = 0;
+			print_buf(n, que);
+		if (que.buf)
+			free(que.buf);
+		que.buf = 0;
 	}
 	return (0);
 }
@@ -119,7 +150,7 @@ int main()
 		3. buf에 만든 배열의 역순 저장j -> 0
 		4. 만든 배열 free
 	4. D함수
-		len - 1까지 buf[i] = buf[i + 1]
+		len - 1까지 que.buf[i] = buf[i + 1]
 		len--
 	5. P의 처음부터 끝까지 함수 확인하며 실행
 	6. '['출력, buf숫자 1개, ','1개출력 len까지
