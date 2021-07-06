@@ -62,6 +62,8 @@ void	clear(t_list *lst)
 {
 	t_list *cur;
 
+	if (lst == 0)
+		return ;
 	while (lst)
 	{
 		cur = lst;
@@ -74,9 +76,7 @@ int	main()
 {
 	int		i, N = 0;
 	t_deq	deq;
-	t_list	*lst;
-	t_list	*cur;
-	t_list	*min;
+	t_list	*lst, *cur, *max, *prev;
 	char	src[6], check[6];
 
 	scanf("%d", &N);
@@ -92,13 +92,18 @@ int	main()
 		else
 			pull(&deq, src);
 	}
-	cur = deq.fst;
-	min = deq.fst->next;
-	while (cur)
+	while (deq.fst)
 	{
+		max = deq.fst;
+		cur = deq.fst->next;
 		while (cur)
-		printf("%s\n", cur->str);
-		cur = cur->next;
+		{
+			if (strcmp(max->str, cur->str) < 0)
+				max = cur;
+			cur = cur->next;
+		}
+		printf("%s\n", max->str);
+		pull(&deq, max->str);
 	}
 	clear(deq.fst);
 	return (0);
