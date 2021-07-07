@@ -23,7 +23,7 @@ t_list	*create_list(void)
 	memset(lst, 0, sizeof(t_list));
 	return (lst);
 }
-
+//back, front는 각각 커서위치(현재 노드 위치) 이동
 void	back(t_list **cur)
 {
 	if ((*cur)->c == 0)
@@ -37,7 +37,7 @@ void	front(t_list **cur)
 		return ;
 	*cur = (*cur)->next;
 }
-
+//앞의 노드 지움.
 void	backspace(t_list **cur)
 {
 	t_list *tmp, *del;
@@ -73,25 +73,27 @@ void	putin(t_list *head, char *str)
 	int i = 0;
 
 	cur = head;
+	//데이터 리스트에 입력
 	while (str[i])
 	{
+		//명령어들
 		if (str[i] == '<')
 			back(&cur);
 		else if (str[i] == '>')
 			front(&cur);
 		else if (str[i] == '-')
 			backspace(&cur);
-		else
+		else//문자일 때 입력
 		{
 			tmp = create_list();
 			tmp->c = str[i];
-			if (cur->next == 0)
+			if (cur->next == 0)//커서가 데이터의 마지막일 때
 			{
 				cur->next = tmp;
 				tmp->prev = cur;
 				cur = cur->next;
 			}
-			else
+			else//커서가 문자 데이터 중간에 있을 때
 			{
 				tmp->prev = cur;
 				tmp->next = cur->next;
@@ -102,6 +104,7 @@ void	putin(t_list *head, char *str)
 		}
 		i++;
 	}
+	//리스트 출력
 	cur = head->next;
 	while (cur)
 	{
@@ -109,6 +112,7 @@ void	putin(t_list *head, char *str)
 		cur = cur->next;
 	}
 	printf("\n");
+	//리스트 비우기
 	clear_list(head);
 }
 
@@ -128,3 +132,9 @@ int main()
 	}
 	return (0);
 }
+
+/*
+1. 양방향 연결리스트로 커서 구현, 현재 노드 위치 = 현재 데이터 뒤에 커서
+2. 각 명령 구현
+3. 
+*/

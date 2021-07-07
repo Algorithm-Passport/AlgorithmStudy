@@ -79,6 +79,7 @@ int	main()
 	t_list	*lst, *cur, *max, *prev;
 	char	src[6], check[6];
 
+	//입력
 	scanf("%d", &N);
 	lst = (t_list *)malloc(sizeof(t_list));
 	lst->next = 0;
@@ -92,6 +93,7 @@ int	main()
 		else
 			pull(&deq, src);
 	}
+	//출력
 	while (deq.fst)
 	{
 		max = deq.fst;
@@ -108,3 +110,9 @@ int	main()
 	clear(deq.fst);
 	return (0);
 }
+
+/*
+1. 덱(+양방향 연결리스트) 구조에 이름 저장
+2. enter면 리스트 추가, leave면 리스트에 이름 찾아서 제거
+3. 출력 시 strcmp로 비교하며 사전 순 출력
+*/
