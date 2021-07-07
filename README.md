@@ -42,6 +42,10 @@
 |21.06.23 까지|자료 구조|[에디터](https://www.acmicpc.net/problem/1406)|[최소 힙](https://www.acmicpc.net/problem/1927)|[탑](https://www.acmicpc.net/problem/2493)|[문제집](https://www.acmicpc.net/problem/1766)|
 |21.07.07 까지|문자열|[회사에 있는 사람](https://www.acmicpc.net/problem/7785)|[키로거](https://www.acmicpc.net/problem/5397)|[AC](https://www.acmicpc.net/problem/5430)|[문자열 폭팔](https://www.acmicpc.net/problem/9935)|
 
+## 
+7월 7일 파트너
+1조 : 김현교 염재선
+
 
 ## 깃허브 사용법
 
