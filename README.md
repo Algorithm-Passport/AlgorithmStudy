@@ -41,10 +41,7 @@
 |21.06.16 까지|그래프 탐색|[숫자판 점프](https://www.acmicpc.net/problem/2210)|[섬의 개수](https://www.acmicpc.net/problem/4963)|[말이 되고픈 원숭이](https://www.acmicpc.net/problem/1600)|[퍼즐](https://www.acmicpc.net/problem/1525)|
 |21.06.23 까지|자료 구조|[에디터](https://www.acmicpc.net/problem/1406)|[최소 힙](https://www.acmicpc.net/problem/1927)|[탑](https://www.acmicpc.net/problem/2493)|[문제집](https://www.acmicpc.net/problem/1766)|
 |21.07.07 까지|문자열|[회사에 있는 사람](https://www.acmicpc.net/problem/7785)|[키로거](https://www.acmicpc.net/problem/5397)|[AC](https://www.acmicpc.net/problem/5430)|[문자열 폭팔](https://www.acmicpc.net/problem/9935)|
-
-## 
-7월 7일 파트너
-1조 : 김현교 염재선
+|21.07.14 까지|구현|[별 찍기 - 19](https://www.acmicpc.net/problem/10994)|[단어 뒤집기 2](https://www.acmicpc.net/problem/17413)|[단어 맞추기](https://www.acmicpc.net/problem/9081)|[소용돌이 예쁘게 출력하기](https://www.acmicpc.net/problem/1022)|
 
 
 ## 깃허브 사용법
