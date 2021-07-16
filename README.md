@@ -42,6 +42,7 @@
 |21.06.23 까지|자료 구조|[에디터](https://www.acmicpc.net/problem/1406)|[최소 힙](https://www.acmicpc.net/problem/1927)|[탑](https://www.acmicpc.net/problem/2493)|[문제집](https://www.acmicpc.net/problem/1766)|
 |21.07.07 까지|문자열|[회사에 있는 사람](https://www.acmicpc.net/problem/7785)|[키로거](https://www.acmicpc.net/problem/5397)|[AC](https://www.acmicpc.net/problem/5430)|[문자열 폭팔](https://www.acmicpc.net/problem/9935)|
 |21.07.14 까지|구현|[별 찍기 - 19](https://www.acmicpc.net/problem/10994)|[단어 뒤집기 2](https://www.acmicpc.net/problem/17413)|[단어 맞추기](https://www.acmicpc.net/problem/9081)|[소용돌이 예쁘게 출력하기](https://www.acmicpc.net/problem/1022)|
+|21.07.21 까지|그리디|[소가 길을 건너간 이유 3](https://www.acmicpc.net/problem/14469)|[팔](https://www.acmicpc.net/problem/1105)|[강의실 배정](https://www.acmicpc.net/problem/11000)|[과제](https://www.acmicpc.net/problem/13904)|
 
 
 ## 깃허브 사용법
