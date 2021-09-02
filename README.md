@@ -23,27 +23,27 @@
 
 |날짜|알고리즘|하|중|상|최상|
 |---|---|---|---|---|---|
-|21.04.9 까지|구현|[괄호의 값](https://www.acmicpc.net/problem/2504)|[사탕 게임](https://www.acmicpc.net/problem/3085)|[결혼식](https://www.acmicpc.net/problem/5567)|
-|21.04.13 까지|그래프 탐색|[바이러스](https://www.acmicpc.net/problem/2606)|[나이트의 이동](https://www.acmicpc.net/problem/7562)|[안전 영역](https://www.acmicpc.net/problem/2468)|
-|21.04.16 까지|다이나믹 프로그래밍|[돌 게임](https://www.acmicpc.net/problem/9655)|[가장 큰 증가 부분 수열](https://www.acmicpc.net/problem/11055)|[카드 구매하기](https://www.acmicpc.net/problem/11052)|
-|21.04.19 까지|문자열 처리|[팰린드롬 만들기](https://www.acmicpc.net/problem/1213)|[잃어버린 괄호](https://www.acmicpc.net/problem/1541)|[IPv6](https://www.acmicpc.net/problem/3107)|
-|21.04.23 까지|백트래킹|[모든 순열](https://www.acmicpc.net/problem/10974)|[부등호](https://www.acmicpc.net/problem/2529)|[연산자 끼워넣기](https://www.acmicpc.net/problem/14888)|
-|21.04.26 까지|구현|[숫자 정사각형](https://www.acmicpc.net/problem/1051)|[치킨 배달](https://www.acmicpc.net/problem/15686)|[2048 (Easy)](https://www.acmicpc.net/problem/12100)|
-|21.04.30 까지|다이나믹 프로그래밍|[01타일](https://www.acmicpc.net/problem/1904)|[오르막 수](https://www.acmicpc.net/problem/11057)|[파이프 옮기기 1](https://www.acmicpc.net/problem/17070)|
-|21.05.3 까지|문자열 처리|[듣보잡](https://www.acmicpc.net/problem/1764)|[IOIOI](https://www.acmicpc.net/problem/5525)|[가르침](https://www.acmicpc.net/problem/1062)|
-|21.05.7 까지|그래프 탐색|[효율적인 해킹](https://www.acmicpc.net/problem/1325)|[친구](https://www.acmicpc.net/problem/1058)|[트리의 지름](https://www.acmicpc.net/problem/1967)|
-|21.05.10 까지|트리 구조|[상근이의 여행](https://www.acmicpc.net/problem/9372)|[트리 순회](https://www.acmicpc.net/problem/1991)|[사회망 서비스(SNS)](https://www.acmicpc.net/problem/2533)|
-|21.05.14 까지|세그먼트 트리 재귀|[히스토그램](https://www.acmicpc.net/problem/1725)|[뒤집기](https://www.acmicpc.net/problem/10472)|
-|21.05.17 까지|백 트래킹|[로또](https://www.acmicpc.net/problem/6603)|[N-Queen](https://www.acmicpc.net/problem/9663)|
-|21.05.26 까지|시뮬레이션|[스위치 켜고 끄기](https://www.acmicpc.net/problem/1244)|[프린터 큐](https://www.acmicpc.net/problem/1966)|[빗물](https://www.acmicpc.net/problem/14719)|[원판 돌리기](https://www.acmicpc.net/problem/17822)|
-|21.06.02 까지|다이나믹 프로그래밍|[1로 만들기](https://www.acmicpc.net/problem/1463)|[기타리스트](https://www.acmicpc.net/problem/1495)|[괄호](https://www.acmicpc.net/problem/10422)|[행렬 곱셈 순서](https://www.acmicpc.net/problem/11049)|
-|21.06.09 까지|이분 탐색|[나무 자르기](https://www.acmicpc.net/problem/2805)|[공유기 설치](https://www.acmicpc.net/problem/2110)|[개똥벌레](https://www.acmicpc.net/problem/3020)|[중량제한](https://www.acmicpc.net/problem/1939)|
-|21.06.16 까지|그래프 탐색|[숫자판 점프](https://www.acmicpc.net/problem/2210)|[섬의 개수](https://www.acmicpc.net/problem/4963)|[말이 되고픈 원숭이](https://www.acmicpc.net/problem/1600)|[퍼즐](https://www.acmicpc.net/problem/1525)|
-|21.06.23 까지|자료 구조|[에디터](https://www.acmicpc.net/problem/1406)|[최소 힙](https://www.acmicpc.net/problem/1927)|[탑](https://www.acmicpc.net/problem/2493)|[문제집](https://www.acmicpc.net/problem/1766)|
-|21.07.07 까지|문자열|[회사에 있는 사람](https://www.acmicpc.net/problem/7785)|[키로거](https://www.acmicpc.net/problem/5397)|[AC](https://www.acmicpc.net/problem/5430)|[문자열 폭팔](https://www.acmicpc.net/problem/9935)|
-|21.07.14 까지|구현|[별 찍기 - 19](https://www.acmicpc.net/problem/10994)|[단어 뒤집기 2](https://www.acmicpc.net/problem/17413)|[단어 맞추기](https://www.acmicpc.net/problem/9081)|[소용돌이 예쁘게 출력하기](https://www.acmicpc.net/problem/1022)|
-|21.07.21 까지|그리디|[소가 길을 건너간 이유 3](https://www.acmicpc.net/problem/14469)|[팔](https://www.acmicpc.net/problem/1105)|[강의실 배정](https://www.acmicpc.net/problem/11000)|[과제](https://www.acmicpc.net/problem/13904)|
-|21.07.28 까지|다이나믹 프로그래밍|[Generations of Tribbles](https://www.acmicpc.net/problem/9507)|[1로 만들기 2](https://www.acmicpc.net/problem/12852)|[연속합 2](https://www.acmicpc.net/problem/13398)|[사전](https://www.acmicpc.net/problem/1256)|
+|1주차|구현|[괄호의 값](https://www.acmicpc.net/problem/2504)|[사탕 게임](https://www.acmicpc.net/problem/3085)|[결혼식](https://www.acmicpc.net/problem/5567)|
+|2주차|그래프 탐색|[바이러스](https://www.acmicpc.net/problem/2606)|[나이트의 이동](https://www.acmicpc.net/problem/7562)|[안전 영역](https://www.acmicpc.net/problem/2468)|
+|3주차|다이나믹 프로그래밍|[돌 게임](https://www.acmicpc.net/problem/9655)|[가장 큰 증가 부분 수열](https://www.acmicpc.net/problem/11055)|[카드 구매하기](https://www.acmicpc.net/problem/11052)|
+|4주차|문자열 처리|[팰린드롬 만들기](https://www.acmicpc.net/problem/1213)|[잃어버린 괄호](https://www.acmicpc.net/problem/1541)|[IPv6](https://www.acmicpc.net/problem/3107)|
+|5주차|백트래킹|[모든 순열](https://www.acmicpc.net/problem/10974)|[부등호](https://www.acmicpc.net/problem/2529)|[연산자 끼워넣기](https://www.acmicpc.net/problem/14888)|
+|6주차|구현|[숫자 정사각형](https://www.acmicpc.net/problem/1051)|[치킨 배달](https://www.acmicpc.net/problem/15686)|[2048 (Easy)](https://www.acmicpc.net/problem/12100)|
+|7주차|다이나믹 프로그래밍|[01타일](https://www.acmicpc.net/problem/1904)|[오르막 수](https://www.acmicpc.net/problem/11057)|[파이프 옮기기 1](https://www.acmicpc.net/problem/17070)|
+|8주차|문자열 처리|[듣보잡](https://www.acmicpc.net/problem/1764)|[IOIOI](https://www.acmicpc.net/problem/5525)|[가르침](https://www.acmicpc.net/problem/1062)|
+|9주차|그래프 탐색|[효율적인 해킹](https://www.acmicpc.net/problem/1325)|[친구](https://www.acmicpc.net/problem/1058)|[트리의 지름](https://www.acmicpc.net/problem/1967)|
+|10주차|트리 구조|[상근이의 여행](https://www.acmicpc.net/problem/9372)|[트리 순회](https://www.acmicpc.net/problem/1991)|[사회망 서비스(SNS)](https://www.acmicpc.net/problem/2533)|
+|11주차|세그먼트 트리 재귀|[히스토그램](https://www.acmicpc.net/problem/1725)|[뒤집기](https://www.acmicpc.net/problem/10472)|
+|12주차|백 트래킹|[로또](https://www.acmicpc.net/problem/6603)|[N-Queen](https://www.acmicpc.net/problem/9663)|
+|13주차|시뮬레이션|[스위치 켜고 끄기](https://www.acmicpc.net/problem/1244)|[프린터 큐](https://www.acmicpc.net/problem/1966)|[빗물](https://www.acmicpc.net/problem/14719)|[원판 돌리기](https://www.acmicpc.net/problem/17822)|
+|14주차|다이나믹 프로그래밍|[1로 만들기](https://www.acmicpc.net/problem/1463)|[기타리스트](https://www.acmicpc.net/problem/1495)|[괄호](https://www.acmicpc.net/problem/10422)|[행렬 곱셈 순서](https://www.acmicpc.net/problem/11049)|
+|15주차|이분 탐색|[나무 자르기](https://www.acmicpc.net/problem/2805)|[공유기 설치](https://www.acmicpc.net/problem/2110)|[개똥벌레](https://www.acmicpc.net/problem/3020)|[중량제한](https://www.acmicpc.net/problem/1939)|
+|16주차|그래프 탐색|[숫자판 점프](https://www.acmicpc.net/problem/2210)|[섬의 개수](https://www.acmicpc.net/problem/4963)|[말이 되고픈 원숭이](https://www.acmicpc.net/problem/1600)|[퍼즐](https://www.acmicpc.net/problem/1525)|
+|17주차|자료 구조|[에디터](https://www.acmicpc.net/problem/1406)|[최소 힙](https://www.acmicpc.net/problem/1927)|[탑](https://www.acmicpc.net/problem/2493)|[문제집](https://www.acmicpc.net/problem/1766)|
+|18주차|문자열|[회사에 있는 사람](https://www.acmicpc.net/problem/7785)|[키로거](https://www.acmicpc.net/problem/5397)|[AC](https://www.acmicpc.net/problem/5430)|[문자열 폭팔](https://www.acmicpc.net/problem/9935)|
+|19주차|구현|[별 찍기 - 19](https://www.acmicpc.net/problem/10994)|[단어 뒤집기 2](https://www.acmicpc.net/problem/17413)|[단어 맞추기](https://www.acmicpc.net/problem/9081)|[소용돌이 예쁘게 출력하기](https://www.acmicpc.net/problem/1022)|
+|20주차|그리디|[소가 길을 건너간 이유 3](https://www.acmicpc.net/problem/14469)|[팔](https://www.acmicpc.net/problem/1105)|[강의실 배정](https://www.acmicpc.net/problem/11000)|[과제](https://www.acmicpc.net/problem/13904)|
+|21|다이나믹 프로그래밍|[Generations of Tribbles](https://www.acmicpc.net/problem/9507)|[1로 만들기 2](https://www.acmicpc.net/problem/12852)|[연속합 2](https://www.acmicpc.net/problem/13398)|[사전](https://www.acmicpc.net/problem/1256)|
 
 
 ## 깃허브 사용법
