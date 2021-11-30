@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/YeomJaeSeon/10" isTestSource="false" packagePrefix="baekjoon.트리구조" />
+      <sourceFolder url="file://$MODULE_DIR$/src/YeomJaeSeon/12" isTestSource="false" packagePrefix="baekjoon.백트래킹" />
+      <sourceFolder url="file://$MODULE_DIR$/src/YeomJaeSeon/13" isTestSource="false" packagePrefix="baekjoon.시뮬레이션" />
+      <sourceFolder url="file://$MODULE_DIR$/src/YeomJaeSeon/14" isTestSource="false" packagePrefix="baekjoon.DP" />
+      <sourceFolder url="file://$MODULE_DIR$/src/YeomJaeSeon/15" isTestSource="false" packagePrefix="baekjoon.BS" />
+      <sourceFolder url="file://$MODULE_DIR$/src/YeomJaeSeon/16" isTestSource="false" packagePrefix="baekjoon.그래프탐색" />
+      <sourceFolder url="file://$MODULE_DIR$/src/YeomJaeSeon/17" isTestSource="false" packagePrefix="baekjoon.자료구조" />
+      <sourceFolder url="file://$MODULE_DIR$/src/YeomJaeSeon/18" isTestSource="false" packagePrefix="baekjoon.문자열" />
+      <sourceFolder url="file://$MODULE_DIR$/src/YeomJaeSeon/19" isTestSource="false" packagePrefix="baekjoon.구현" />
+      <sourceFolder url="file://$MODULE_DIR$/src/YeomJaeSeon/20" isTestSource="false" packagePrefix="baekjoon.그리디" />
+      <sourceFolder url="file://$MODULE_DIR$/src/YeomJaeSeon/6" isTestSource="false" packagePrefix="baekjoon.구현" />
+      <sourceFolder url="file://$MODULE_DIR$/src/YeomJaeSeon/7" isTestSource="false" packagePrefix="baekjoon.DP" />
+      <sourceFolder url="file://$MODULE_DIR$/src/YeomJaeSeon/8" isTestSource="false" packagePrefix="baekjoon.문자열" />
+      <sourceFolder url="file://$MODULE_DIR$/src/YeomJaeSeon/9" isTestSource="false" packagePrefix="baekjoon.그래프탐색" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
