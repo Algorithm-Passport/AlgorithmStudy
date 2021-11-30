@@ -45,6 +45,8 @@
 |20주차|그리디|[소가 길을 건너간 이유 3](https://www.acmicpc.net/problem/14469)|[팔](https://www.acmicpc.net/problem/1105)|[강의실 배정](https://www.acmicpc.net/problem/11000)|[과제](https://www.acmicpc.net/problem/13904)|
 |21주차|다이나믹 프로그래밍|[Generations of Tribbles](https://www.acmicpc.net/problem/9507)|[1로 만들기 2](https://www.acmicpc.net/problem/12852)|[연속합 2](https://www.acmicpc.net/problem/13398)|[사전](https://www.acmicpc.net/problem/1256)|
 |22주차|문자열 처리|[부분 문자열](https://www.acmicpc.net/problem/6550)|[염색체](https://www.acmicpc.net/problem/9342)|||
+|23주차|Data structure|[스택](https://www.acmicpc.net/problem/10828)|[큐](https://www.acmicpc.net/problem/18258)|[덱](https://www.acmicpc.net/problem/10866)|[데이터 체커](https://www.acmicpc.net/problem/22942)|
+
 
 
 ## 깃허브 사용법
