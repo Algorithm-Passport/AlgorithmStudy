@@ -47,7 +47,7 @@
 |22주차|문자열 처리|[부분 문자열](https://www.acmicpc.net/problem/6550)|[염색체](https://www.acmicpc.net/problem/9342)|||
 |23주차|Data structure|[스택](https://www.acmicpc.net/problem/10828)|[큐](https://www.acmicpc.net/problem/18258)|[덱](https://www.acmicpc.net/problem/10866)|[데이터 체커](https://www.acmicpc.net/problem/22942)|
 |24주차|구현|[ZOAC 3](https://www.acmicpc.net/problem/20436)|[배열돌리기1](https://www.acmicpc.net/problem/16926)|[달력](https://www.acmicpc.net/problem/20207)|[ZOAC](https://www.acmicpc.net/problem/16719)|
-
+|25주차|브루트포스|[번데기](https://www.acmicpc.net/problem/15721)|[숫자야구](https://www.acmicpc.net/problem/2503)|[꽃길](https://www.acmicpc.net/problem/14620)|[카드 섞기](https://www.acmicpc.net/problem/21315)|
 
 
 ## 깃허브 사용법
