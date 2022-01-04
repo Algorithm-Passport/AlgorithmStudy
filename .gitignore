@@ -2,3 +2,4 @@
 *.exe
 *.a
 .DS_Store
+.idea
