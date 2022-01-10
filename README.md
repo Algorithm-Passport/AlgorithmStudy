@@ -49,6 +49,7 @@
 |24주차|구현|[ZOAC 3](https://www.acmicpc.net/problem/20436)|[배열돌리기1](https://www.acmicpc.net/problem/16926)|[달력](https://www.acmicpc.net/problem/20207)|[ZOAC](https://www.acmicpc.net/problem/16719)|
 |25주차|브루트포스|[번데기](https://www.acmicpc.net/problem/15721)|[숫자야구](https://www.acmicpc.net/problem/2503)|[꽃길](https://www.acmicpc.net/problem/14620)|[카드 섞기](https://www.acmicpc.net/problem/21315)|
 |26주차|그래프 탐색|[DFS와 BFS](https://www.acmicpc.net/problem/1260)|[토마토](https://www.acmicpc.net/problem/7576)|[인구 이동](https://www.acmicpc.net/problem/16234)|[카드 섞기](https://www.acmicpc.net/problem/21315)|
+|27주차|동적계획법|[다리 놓기](https://www.acmicpc.net/problem/1010)|[1로 만들기](https://www.acmicpc.net/problem/1463)|[호텔](https://www.acmicpc.net/problem/1106)|[동전 1](https://www.acmicpc.net/problem/2293)|
 
 ## 깃허브 사용법
 
