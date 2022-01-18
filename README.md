@@ -50,6 +50,7 @@
 |25주차|브루트포스|[번데기](https://www.acmicpc.net/problem/15721)|[숫자야구](https://www.acmicpc.net/problem/2503)|[꽃길](https://www.acmicpc.net/problem/14620)|[카드 섞기](https://www.acmicpc.net/problem/21315)|
 |26주차|그래프 탐색|[DFS와 BFS](https://www.acmicpc.net/problem/1260)|[토마토](https://www.acmicpc.net/problem/7576)|[인구 이동](https://www.acmicpc.net/problem/16234)|[카드 섞기](https://www.acmicpc.net/problem/21315)|
 |27주차|동적계획법|[다리 놓기](https://www.acmicpc.net/problem/1010)|[1로 만들기](https://www.acmicpc.net/problem/1463)|[호텔](https://www.acmicpc.net/problem/1106)|[동전 1](https://www.acmicpc.net/problem/2293)|
+|28주차|동적계획법|[계단 오르기](https://www.acmicpc.net/problem/2579)| [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053)|[스티커](https://www.acmicpc.net/problem/9465)|[함께 블록 쌓기](https://www.acmicpc.net/problem/18427)|
 
 ## 깃허브 사용법
 
