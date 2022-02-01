@@ -52,6 +52,7 @@
 |27주차|동적계획법|[다리 놓기](https://www.acmicpc.net/problem/1010)|[1로 만들기](https://www.acmicpc.net/problem/1463)|[호텔](https://www.acmicpc.net/problem/1106)|[동전 1](https://www.acmicpc.net/problem/2293)|
 |28주차|동적계획법|[계단 오르기](https://www.acmicpc.net/problem/2579)| [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053)|[스티커](https://www.acmicpc.net/problem/9465)|[함께 블록 쌓기](https://www.acmicpc.net/problem/18427)|
 |29주차|백트래킹|[N과 M(11)](https://www.acmicpc.net/problem/15665)| [근손실](https://www.acmicpc.net/problem/18429)|[영재의 시험](https://www.acmicpc.net/problem/19949)|[스도쿠](https://www.acmicpc.net/problem/2239)|
+|30주차|그리디|[에너지 드링크](https://www.acmicpc.net/problem/20115)| [동전 0](https://www.acmicpc.net/problem/11047)|[꿀 따기](https://www.acmicpc.net/problem/21758)|[우체국](https://www.acmicpc.net/problem/2141)|
 
 
 ## 깃허브 사용법
