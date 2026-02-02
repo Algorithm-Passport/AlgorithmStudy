@@ -1,2 +1,3 @@
-ababababa
-aba
+4 2
+GATA
+1 0 0 1
